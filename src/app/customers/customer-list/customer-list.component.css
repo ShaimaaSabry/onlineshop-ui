@@ -1,0 +1,13 @@
+form {
+    margin-bottom: 30px;
+}
+form .form-field {
+    margin-right: 30px;
+}
+.mat-radio-button {
+    margin-left: 8px;
+  }
+
+table {
+    min-width: 100%;
+}
